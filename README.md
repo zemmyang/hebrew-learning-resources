@@ -15,14 +15,44 @@ https://www.teachmehebrew.com/
 
 http://foundationstone.com.au/FoundationStone.html?./OnlineHebrewTutorial.html
 
-https://www.morfix.co.il/en/
+Online dictionary https://www.morfix.co.il/en/
+
+## Verb Conjugation
+
+Because this needs its own section
+
+https://hebrewverbs.cet.ac.il/app
+
+https://www.pealim.com/
 
 ## Books
 
-I have some recs myself, I'll maybe do reviews, but see the reddit post for now
+I have some recs myself, I'll maybe do reviews here, but see the reddit post for now
+
+## Apps
+
+Duolingo - Good for vocab, IMO, but terrible for teaching grammar.
+
+Quizlet - Check out this guy in particular: https://quizlet.com/user/Firsthand_Ulpan/sets
+
+## Anki Decks
+
+WIP
 
 ## Misc
 
 https://zemmyang.com/hebrew-touch-typing/  
 Touch typing practice. I just forked this from https://typing.dlvhdr.me/
+
+https://benyehuda.org/
+
+## AI
+
+Only if you know what you're doing
+
+Transcription: https://huggingface.co/ivrit-ai/faster-whisper-v2-d4
+
+Whisper large v2 has support for Hebrew transcription and translation
+
+GCP has a Cloud Text-to-Speech API with support for 5(?) Hebrew voices, which (from my experience) is better than Facebook's version (https://huggingface.co/facebook/mms-tts-heb)
 
