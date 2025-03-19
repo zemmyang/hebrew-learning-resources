@@ -17,6 +17,14 @@ http://foundationstone.com.au/FoundationStone.html?./OnlineHebrewTutorial.html
 
 Online dictionary https://www.morfix.co.il/en/
 
+## Reading material
+
+I'm just telling you about the fact that these sources exist. I don't necessarily agree with the material posted in these.
+
+https://store.jpost.com/jpmagazine/product/6
+
+https://hebrewtoday.com/product/bereshit-newspaper/ or https://hebrewtoday.com/product/yanshuf-newspaper/
+
 ## Verb Conjugation
 
 Because this needs its own section
